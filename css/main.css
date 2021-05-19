@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-color: #eeeeee;
+}
+label {
+  display: block;
+  font-weight: 500;
+}
+h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 6px;
+  font-size: 40px;
+  color: #000000;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.card {
+  height: 100%;
+}
+.card-header {
+  font-weight: 700;
+  color: #ffffff;
+}
+.row > div {
+  margin-bottom: 15px;
+}
+.resultHex {
+  height: 45%;
+}
+#resultHex {
+  margin-bottom: 15px;
+}
